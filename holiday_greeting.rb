@@ -1,5 +1,5 @@
 ref mothers_day(name = "Mom")
-puts "Happy Mother's Day, #{name}!"
+"Happy Mother's Day, #{name}!"
 end
 mothers_day(name = "Beyonce")
 
